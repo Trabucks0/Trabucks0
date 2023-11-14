@@ -4,7 +4,7 @@
 </em></p>
  
 
-[!tracey-moore-b67630233](https://img.shields.io/badge/TraceyMoore-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tracey-moore-b67630233/)
+[![tracey-moore-](https://img.shields.io/badge/tracey-moore-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tracey-moore-b67630233/)
 
 
 ---
